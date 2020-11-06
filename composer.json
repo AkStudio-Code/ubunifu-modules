@@ -1,0 +1,22 @@
+{
+    "name": "triposhub/ubunifu",
+    "type": "project",
+    "description": "A minimalistic fast php-mvc framework for php webapps and websites",
+    "keywords": ["Framework","PHP MVC"],
+    "homepage": "https://github.com/AkStudio-Code/Ubunifu",
+    "license": "proprietary",
+    "authors": [
+        { 
+            "name": "Alex Kekee",
+            "email": "kekeealex.m@gmail.com",
+            "homepage": "http://triposhub.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "rych/phpass": "^2.0",
+        "illuminate/database": "^8.13"
+    },
+   
+}
