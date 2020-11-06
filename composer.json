@@ -2,6 +2,7 @@
     "name": "triposhub/modules",
     "type": "library",
     "description": "modules for ubunifu php-mvc framework",
+    "version":"1.0.0"
     "keywords": ["Framework","PHP MVC"],
     "homepage": "https://github.com/AkStudio-Code/Ubunifu",
     "license": "proprietary",
@@ -18,6 +19,6 @@
         "rych/phpass": "^2.0",
         "illuminate/database": "^8.13"
     },
-     "minimum-stability": "dev"
+    
    
 }
