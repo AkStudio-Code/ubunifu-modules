@@ -1,5 +1,5 @@
 <?php
-namespace Modules\UserManagement\Authentication\Auth;
+namespace Triposhub\Modules\UserManagement\Authentication\Auth;
 
 Interface UserInterface
 {

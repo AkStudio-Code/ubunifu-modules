@@ -1,6 +1,6 @@
 <?php
 
-namespace Modules\UserManagement\Authentication\Auth;
+namespace Triposhub\Modules\UserManagement\Authentication\Auth;
 use Phpass\Hash;
 use Phpass\Hash\Adapter\Pbkdf2;
 

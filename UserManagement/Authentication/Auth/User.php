@@ -1,5 +1,5 @@
 <?php
-namespace Modules\UserManagement\Authentication\Auth;
+namespace Triposhub\Modules\UserManagement\Authentication\Auth;
 use Authentication\validation\AuthValidate;
 use Authentication\validation\UserValidation;
 use DbIlluminate\Db\DatabaseFactory;
