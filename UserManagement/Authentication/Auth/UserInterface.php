@@ -1,5 +1,5 @@
 <?php
-namespace UserManagement\Authentication\Auth;
+namespace Modules\UserManagement\Authentication\Auth;
 
 Interface UserInterface
 {

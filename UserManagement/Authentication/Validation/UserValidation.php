@@ -1,5 +1,5 @@
 <?php
-namespace UserManagement\Authentication\Auth;
+namespace Modules\UserManagement\Authentication\Auth;
 use Authentication\auth\User;
 use DbIlluminate\Db\DatabaseFactory;
 use Illuminate\Database\Capsule\Manager;

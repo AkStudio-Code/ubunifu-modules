@@ -1,5 +1,5 @@
 <?php
-namespace UserManagement\Authentication\Auth;
+namespace Modules\UserManagement\Authentication\Auth;
 use Authentication\validation\AuthValidate;
 use Authentication\validation\UserValidation;
 use DbIlluminate\Db\DatabaseFactory;

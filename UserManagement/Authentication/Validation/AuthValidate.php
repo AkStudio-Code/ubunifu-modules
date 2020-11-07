@@ -1,6 +1,6 @@
 <?php
 
-namespace UserManagement\Authentication\Validation;
+namespace Modules\UserManagement\Authentication\Auth;
 use Phpass\Hash;
 use Phpass\Hash\Adapter\Pbkdf2;
 
